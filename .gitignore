@@ -1,0 +1,29 @@
+# Datasets
+data/
+
+# Model checkpoints, logs, and outputs
+work_dirs/
+*.pth
+*.pt
+*.ckpt
+*.h5
+last_checkpoint
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Results
+*.png
+*.jpg
